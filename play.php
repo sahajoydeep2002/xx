@@ -253,17 +253,17 @@
             <div class="row">
                 <div class="col-lg-4 text-center ms-auto"><i class="fa fa-phone fa-3x mb-3 sr-contact"
                         data-aos="zoom-in" data-aos-duration="300" data-aos-once="true"></i>
-                    <p><a class="text-decoration-none text-faded" href="tel:+917011238307">Drop a call</a></p>
+                    <p><a class="text-decoration-none text-faded" href="tel:">Drop a call</a></p>
                 </div>
                 <div class="col-lg-4 text-center me-auto"><i class="fa fa-envelope-o fa-3x mb-3 sr-contact"
                         data-aos="zoom-in" data-aos-duration="300" data-aos-delay="300" data-aos-once="true"></i>
-                    <p><a class="text-decoration-none text-faded" href="mailto:vishalvats2000@gmail.com">Drop an
+                    <p><a class="text-decoration-none text-faded" href="mailto:sahajoydeep2002@gmail.com">Drop an
                             email</a></p>
                 </div>
             </div>
             <div class="row">
                 <div class="col-12" style="margin:auto">
-                    <p style="margin:auto; font-size:14px" class="text-center">Made and maintained by <b>Vishal Vats</b>
+                    <p style="margin:auto; font-size:14px" class="text-center">Made and maintained by <b>Joy Deep Saha</b>
                         &copy;
                         <?php echo date("Y"); ?>
                     </p>
